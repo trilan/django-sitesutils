@@ -1,6 +1,8 @@
 Django Sites Utils
 ==================
 
+.. image:: https://secure.travis-ci.org/trilan/django-sitesutils.png?branch=develop
+
 With ``django-sitesutils`` you're able to access current site, using
 ``request.site`` everywhere you can access ``request`` object.
 
