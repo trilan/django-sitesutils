@@ -19,4 +19,5 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'tests.test_middleware',
     'tests.test_context_processors',
+    'tests.test_helpers',
 )
