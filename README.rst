@@ -34,7 +34,7 @@ Installation
 
        TEMPLATE_CONTEXT_PROCESSORS = (
            # ...
-           'siteutils.context_processors.site',
+           'sitesutils.context_processors.site',
        )
 
 Contributing
