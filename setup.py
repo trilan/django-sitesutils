@@ -10,7 +10,7 @@ def read(filename):
 
 setup(
     name='django-sitesutils',
-    version='0.1.1',
+    version='0.1.2',
     license='ISC',
     description="Utils for Django's sites framework",
     long_description=read('README.rst'),
